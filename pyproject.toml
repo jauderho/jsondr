@@ -7,7 +7,7 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
 flask = "^3.0.0"
-gunicorn = "^21.2.0"
+gunicorn = "^22.0.0"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.31.0"
 tldextract = "^5.1.2"
